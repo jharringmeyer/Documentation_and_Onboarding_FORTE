@@ -1,5 +1,5 @@
 ---
-title: "Making shareable documents with Quarto, for FORTE data"
+title: "Making shareable documents with Quarto, for FORTE team data"
 subtitle: "Create open-source tutorials, onboarding docs, and much more"
 ---
 
